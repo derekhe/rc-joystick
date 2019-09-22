@@ -13,7 +13,7 @@ This arduino project is used to turn RC receiver's PWM into Joystick signal. Tha
 
 * Choose Arduino Leonardo
 
-![Arduino](./resources/arduino.PNG)
+![Arduino](./resources/arduino.PNG?raw=true)
 
 * Open and flash ATMega32u4.ino in ATmega32u4 folder
 
@@ -29,10 +29,10 @@ Caution: Make sure you connect VCC and GND correctly otherwise your receiver may
 
 Open joystick controller and you will see "Arduino Leonardo"
 
-![Joystick](./resources/joystick.png)
+![Joystick](./resources/joystick.png?raw=true)
 
 You can check details here:
-![details](./resources/joystick.png)
+![details](./resources/joystick.png?raw=true)
 
 If you first time setup the device, you may see the XY axis not in center. Please back to settings and calibrate it first.
 
@@ -40,4 +40,4 @@ If you first time setup the device, you may see the XY axis not in center. Pleas
 
 In game, choose "Arduino Leonardo". If your accelerate, steering is reversed, please change in your game. If you find accelerate is steering, you may connect wrong PIN to receiver's channel.
 
-![vc-pro](./resources/vc-pro.png)
+![vc-pro](./resources/vc-pro.png?raw=true)
