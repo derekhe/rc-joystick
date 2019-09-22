@@ -13,7 +13,7 @@ This arduino project is used to turn RC receiver's PWM into Joystick signal. Tha
 
 * Choose Arduino Leonardo
 
-![Arduino](./resources/arduino.PNG?raw=true)
+![Arduino](./resources/arduino.png?raw=true)
 
 * Open and flash ATMega32u4.ino in ATmega32u4 folder
 
@@ -32,6 +32,7 @@ Open joystick controller and you will see "Arduino Leonardo"
 ![Joystick](./resources/joystick.png?raw=true)
 
 You can check details here:
+
 ![details](./resources/joystick.png?raw=true)
 
 If you first time setup the device, you may see the XY axis not in center. Please back to settings and calibrate it first.
