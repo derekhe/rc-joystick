@@ -41,4 +41,4 @@ If you first time setup the device, you may see the XY axis not in center. Pleas
 
 In game, choose "Arduino Leonardo". If your accelerate, steering is reversed, please change in your game. If you find accelerate is steering, you may connect wrong PIN to receiver's channel.
 
-![vc-pro](./resources/vc-pro.png?raw=true)
+![vc-pro](./resources/vrc-pro.png?raw=true)
