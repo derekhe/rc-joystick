@@ -3,7 +3,7 @@ import serial
 
 j = pyvjoy.VJoyDevice(1)
 
-ser = serial.Serial('COM10', 230400)
+ser = serial.Serial('COM10', 230400)  # Change COM10 to your Arduino port
 
 joystick_min = 0x1
 joystick_max = 0x8000
